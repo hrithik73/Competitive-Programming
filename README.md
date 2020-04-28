@@ -13,9 +13,9 @@ Code Editor-Sublime Text Editor 3 <br />
 1).Letest version of Sublime. <br />
 2).Download and install your favourite theme(mine-Material sublime)  <br />
    ->How to intall any Package in sublime <br />
-     -> Go to command pattlets by clicking (Ctrl+Shift+P)  <br />
-     -> Click on the Package Control:install Package <br />
-     -> Search for your package and click on it. It will get install automatically <br />
+      - Go to command pattlets by clicking (Ctrl+Shift+P)  <br />
+      - Click on the Package Control:install Package <br />
+      - Search for your package and click on it. It will get install automatically <br />
  3).Install some plug-in <br />
     -> AstyleFormatter (it is also available on many other code editor it basicaly do is formate the code) <br />
     -> A file icon (for the beautifull icon look) <br />
