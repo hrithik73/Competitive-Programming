@@ -42,7 +42,7 @@ it is for C as well as C++.
 Now write any code in C/C++ and Goto Tools->Build->C(the buil we have created) and press Ctrl+B it will run the code on terminal if you on ubuntu and using gnome-terminal.
 Search for any other build on google and you will find for your machine as well.
 ## Error
-If you Find anything Wrong please let me know!
+If you Find Anything Wrong please let me know!
 
 ## Authors
 
