@@ -1,5 +1,5 @@
 # Competitive-Programming
-The setup of Competitive-Programming and The Implememntation of Data-Structure for Copy Paste Purpose. 
+The setup of Competitive-Programming and The Implememntation of Data-Structure for Copy Paste Purpose. <br />
 And Solution of Some of the problems
 
 ## Getting Start
@@ -20,7 +20,7 @@ Code Editor-Sublime Text Editor 3 <br />
     -> AstyleFormatter (it is also available on many other code editor it basicaly do is formate the code) <br />
     -> A file icon (for the beautifull icon look) <br />
       .
-      .
+      . <br />
  4). Go to tools->build->new build and paste this and code and save the file name as C.sublime-build
  ```
  {
