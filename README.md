@@ -9,7 +9,7 @@ Compiler(Tested On)-GCC compiler
 Machine-Ubuntu 19.10
 Code Editor-Sublime Text Editor 3
 
-.........................................................................
+
 ## My Sublime Setup(Stepwise):
 1).Letest version of Sublime.
 2).Download and install your favourite theme(mine-Material sublime)
@@ -38,11 +38,12 @@ Code Editor-Sublime Text Editor 3
 ]
 }
 ```
- it is for C as well as C++
+it is for C as well as C++
 
-Now write any code in c and save it and build it with the this build and it will run the code on terminal if you on ubuntu
+Now write any code in C/C++ and Goto Tools->Build->C(the buil we have created) and press Ctrl+B it will run the code on terminal if you on ubuntu
 and using gnome-terminal
 Search for any other build on google and you will find for your machine as well.
 
+## Authors
 
-.......................................................................................................................
+* **Hrithik Singh**
