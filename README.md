@@ -9,7 +9,7 @@ Compiler(Tested On)-GCC compiler  <br />
 Machine-Ubuntu 19.10 <br />
 Code Editor-Sublime Text Editor 3 <br />
 
-## My Sublime Setup(Stepwise):
+## My Sublime Setup(Stepwise) For Competitive Programming:
 1).Letest version of Sublime. <br />
 2).Download and install your favourite theme(mine-Material sublime)  <br />
    ->How to intall any Package in sublime <br />
