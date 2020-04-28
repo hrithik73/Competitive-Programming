@@ -1,15 +1,16 @@
 # Competitive-Programming
-The setup of Competitive-Programming and The Implememntation of Data-Structure for Copy Paste Purpose.
+The setup of Competitive-Programming and The Implememntation of Data-Structure for Copy Paste Purpose. 
 And Solution of Some of the problems
 
+## Getting Start
 Language- C
 For Data Structure:
 Compiler(Tested On)-GCC compiler
 Machine-Ubuntu 19.10
 Code Editor-Sublime Text Editor 3
 
-....................................................................................................................
-My Sublime Setup(Stepwise):
+.........................................................................
+## My Sublime Setup(Stepwise):
 1).Letest version of Sublime.
 2).Download and install your favourite theme(mine-Material sublime)
    ->How to intall any Package in sublime
@@ -22,7 +23,7 @@ My Sublime Setup(Stepwise):
       .
       .
  4). Go to tools->build->new build and paste this and code and save the file name as C.sublime-build
- 
+ ```
  {
 "cmd": ["g++", "-std=c++14", "$file", "-o", "${file_path}/${file_base_name}"],
 "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
@@ -36,6 +37,7 @@ My Sublime Setup(Stepwise):
 }
 ]
 }
+```
  it is for C as well as C++
 
 Now write any code in c and save it and build it with the this build and it will run the code on terminal if you on ubuntu
