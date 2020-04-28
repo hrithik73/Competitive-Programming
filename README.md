@@ -3,23 +3,22 @@ The setup of Competitive-Programming and The Implememntation of Data-Structure f
 And Solution of Some of the problems
 
 ## Getting Start
-Language- C
-For Data Structure:
-Compiler(Tested On)-GCC compiler
-Machine-Ubuntu 19.10
-Code Editor-Sublime Text Editor 3
-
+Language- C <br />
+For Data Structure: <br />
+Compiler(Tested On)-GCC compiler  <br />
+Machine-Ubuntu 19.10 <br />
+Code Editor-Sublime Text Editor 3 <br />
 
 ## My Sublime Setup(Stepwise):
-1).Letest version of Sublime.
-2).Download and install your favourite theme(mine-Material sublime)
-   ->How to intall any Package in sublime
-     -> Go to command pattlets by clicking (Ctrl+Shift+P)
-     -> Click on the Package Control:install Package
-     -> Search for your package and click on it. It will get install automatically
- 3).Install some plug-in
-    -> AstyleFormatter (it is also available on many other code editor it basicaly do is formate the code)
-    -> A file icon (for the beautifull icon look)
+1).Letest version of Sublime. <br />
+2).Download and install your favourite theme(mine-Material sublime)  <br />
+   ->How to intall any Package in sublime <br />
+     -> Go to command pattlets by clicking (Ctrl+Shift+P)  <br />
+     -> Click on the Package Control:install Package <br />
+     -> Search for your package and click on it. It will get install automatically <br />
+ 3).Install some plug-in <br />
+    -> AstyleFormatter (it is also available on many other code editor it basicaly do is formate the code) <br />
+    -> A file icon (for the beautifull icon look) <br />
       .
       .
  4). Go to tools->build->new build and paste this and code and save the file name as C.sublime-build
