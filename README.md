@@ -1,5 +1,5 @@
 # Competitive-Programming
-The setup of Competitive-Programming and The Implememntation of Data-Structure for Copy Paste Purpose. <br />
+The setup of Competitive-Programming and The Implememntation of Data-Structures Some of these can be used for Copy-Paste <br />
 And Solution of Some of the problems.
 
 ## Getting Start
