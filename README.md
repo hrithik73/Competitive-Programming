@@ -39,7 +39,7 @@ Code Editor-Sublime Text Editor. 3 <br />
 ```
 it is for C as well as C++.
 
-Now write any code in C/C++ and Goto Tools->Build->C(the buil we have created) and press Ctrl+B it will run the code on terminal if you on ubuntu and using gnome-terminal.
+Now write any code in C/C++ and Goto Tools->Build->C(the buil we have created) and press Ctrl+B it will directly run the code on terminal if you on ubuntu and using gnome-terminal.
 Search for any other build on google and you will find for your machine as well.
 ## Error
 If you Find Anything Wrong please let me know!
