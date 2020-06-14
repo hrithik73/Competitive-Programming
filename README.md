@@ -42,7 +42,7 @@ it is for C as well as C++.
 Now write any code in C/C++ and Goto Tools->Build->C(the build we have created) and press Ctrl+B it will directly run the code on terminal if you on ubuntu and using gnome-terminal(bash) or chamge the terminal in script Whichever Terminal you are using.
 Search for any other build on google and you will find for your machine as well.
 ## Resourse:
-[Awesome Resource](README.md)
+[Awesome Resource](https://github.com/hrithik73/Competitive-Programming/blob/master/Resource/README.md)
 ## Error
 If you Find Anything Wrong please let me know!
 
