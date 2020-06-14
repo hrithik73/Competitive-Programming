@@ -1,4 +1,4 @@
-### This File is Copeid From the [https://github.com/lnishan/awesome-competitive-programming] at this point i don't know this is ethical or not but this is only for learning purpus :)
+### This File is Copeid From the [https://github.com/lnishan/awesome-competitive-programming] at this point i don't know this is ethical or not P.S- this is only for learning purpose :)
 
 
 # Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
