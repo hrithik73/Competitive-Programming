@@ -48,4 +48,4 @@ If you Find Anything Wrong please let me know!
 
 ## Authors
 
-* **Hrithik Singh**
+* [**Hrithik Singh**](https://github.com/hrithik73)
