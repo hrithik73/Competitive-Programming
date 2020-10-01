@@ -53,3 +53,4 @@ This is 100% free and open source. We encourage and support an active, healthy c
 ## Authors ✒️
 
 * [**Hrithik Singh**](https://github.com/hrithik73)
+*[**Hitesh Garg**](https://github.com/hiteshgarg123)
