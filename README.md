@@ -1,15 +1,15 @@
-# Competitive-Programming
+# Competitive-Programming 💻
 The setup of Competitive-Programming and The Implememntation of Data-Structures Some of these can be used for Copy-Paste <br />
 And Solution of Some of the problems.
 
-## Getting Start
-Language- C <br />
-For Data Structure: <br />
-Compiler(Tested On)-GCC compiler.  <br />
-Machine-Ubuntu 19.10 or Later <br />
-Code Editor-Sublime Text Editor. 3 <br />
+## Getting Started 🚀
+- Language- C <br />
+- For Data Structure: <br />
+- Compiler(Tested On)-GCC compiler.  <br />
+- Machine-Ubuntu 19.10 or Later <br />
+- Code Editor-Sublime Text Editor 3 <br />
 
-## My Sublime Setup(Stepwise) For Competitive Programming:
+## My Sublime Setup(Stepwise) with Competitive Programming ⚙️
 1).Letest version of Sublime. <br />
 2).Download and install your favourite theme(mine-Material sublime)  <br />
    ->How to install any Package in sublime? <br />
@@ -22,30 +22,34 @@ Code Editor-Sublime Text Editor. 3 <br />
       .
       . <br />
  4). Go to tools->build->new build and paste this and code and save the file name as C.sublime-build.
- ```
- {
-"cmd": ["g++", "-std=c++14", "$file", "-o", "${file_path}/${file_base_name}"],
-"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
-"working_dir": "${file_path}",
-"selector": "source.c",
-"variants":
-[
+```
 {
-"name": "Run",
-"cmd": ["bash", "-c", "g++ -std=c++14 '${file}' -o '${file_path}/${file_base_name}' && gnome-terminal -x bash -c '\"${file_path}/${file_base_name}\" ; read'"]
-}
-]
+    "cmd": ["g++", "-std=c++14", "$file", "-o", "${file_path}/${file_base_name}"],
+    "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+    "working_dir": "${file_path}",
+    "selector": "source.c",
+    "variants": [{
+        "name": "Run",
+        "cmd": ["bash", "-c", "g++ -std=c++14 '${file}' -o '${file_path}/${file_base_name}' && gnome-terminal -x bash -c '\"${file_path}/${file_base_name}\" ; read'"]
+    }]
 }
 ```
-it is for C as well as C++.
+- This works for C as well as C++.
 
-Now write any code in C/C++ and Goto Tools->Build->C(the build we have created) and press Ctrl+B it will directly run the code on terminal if you on ubuntu and using gnome-terminal(bash) or chamge the terminal in script Whichever Terminal you are using.
+- Now write any code in C/C++ and Goto Tools->Build->C(the build we have created) and press Ctrl+B it will directly run the code on terminal if you on ubuntu and using gnome-terminal(bash) or chamge the terminal in script Whichever Terminal you are using.
 Search for any other build on google and you will find for your machine as well.
-## Resourse:
-[Awesome Resource](https://github.com/hrithik73/Competitive-Programming/blob/master/Resource/README.md)
-## Error
-If you Find Anything Wrong please let me know!
 
-## Authors
+## Resourses 📚
+- [Awesome Resource](https://github.com/hrithik73/Competitive-Programming/blob/master/Resource/README.md)
+
+## Contributing 🤝
+This is 100% free and open source. We encourage and support an active, healthy community that accepts contributions from the public – including you. There are a couple of ways in which you can contribute to the growing community of Competitive Programming.
+
+- Fix a bug.
+- Create an issue .
+- Add more resources to learn Competitive Programming.
+- Write and improve some documentation. Documentation is very critical to us. We would appreciate help in adding multiple languages to our docs.
+
+## Authors ✒️
 
 * [**Hrithik Singh**](https://github.com/hrithik73)
