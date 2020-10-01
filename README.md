@@ -42,13 +42,14 @@ Search for any other build on google and you will find for your machine as well.
 ## Resourses 📚
 - [Awesome Resource](https://github.com/hrithik73/Competitive-Programming/blob/master/Resource/README.md)
 
-## Contributing
+## Contributing 🤝
 This is 100% free and open source. We encourage and support an active, healthy community that accepts contributions from the public – including you. There are a couple of ways in which you can contribute to the growing community of Competitive Programming.
 
-- Fix a bug
-- Create an issue 
+- Fix a bug.
+- Create an issue .
+- Add more resources to learn Competitive Programming.
 - Write and improve some documentation. Documentation is very critical to us. We would appreciate help in adding multiple languages to our docs.
 
-## Authors
+## Authors ✒️
 
 * [**Hrithik Singh**](https://github.com/hrithik73)
