@@ -4,7 +4,7 @@ And Solution of Some of the problems.
 
 ## Getting Started 🚀
 - Language- C <br />
-- For Data Structure: <br />
+ For Data Structure:- <br />
 - Compiler(Tested On)-GCC compiler.  <br />
 - Machine-Ubuntu 19.10 or Later <br />
 - Code Editor-Sublime Text Editor 3 <br />

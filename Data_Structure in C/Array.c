@@ -9,6 +9,7 @@ void insert(int A[] , int item);
 void Delete(int A[]);
 void lsearch(int A[], int item);
 void bisearch(int A[], int bitem);
+void Display(int A[],int n);
 
 int A[maxsize], n, choice, item, i, bitem;
 
@@ -21,11 +22,17 @@ int main()
 	for (i = 0; i < n; i++)
 		scanf("%d", &A[i]);
 	while (1) {
-		printf(">>>>>Enter The Operation you want to pereform on Array>>\n");
-		printf(">>>>>1).Insertion>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n");
-		printf(">>>>>2).Deletion>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n");
-		printf(">>>>>3).Linear Search>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n");
-		printf(">>>>>4).Binary Search>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n");
+		printf("|----------------------------------------|\n");
+		printf("|Enter The Choice                     >>>|\n");
+		printf("|1).Insertion of an Element           >>>|\n");
+		printf("|2).Deletion of an Element            >>>|\n");
+		printf("|3).Linear Search                     >>>|\n");
+		printf("|4).Binary Search                     >>>|\n");
+		printf("|5).Display                           >>>|\n");
+		printf("|----------------------------------------|\n");
+
+
+
 		scanf("%d", &choice);
 		switch (choice)
 		{
@@ -49,7 +56,10 @@ int main()
 			scanf("%d", &bitem);
 			bisearch(A, bitem);
 			break;
+		case 5:
+			Display(A,n);
 		default :
+			printf("The Elements Are:\n");
 			printf("Wrong choice!");
 			break;
 		}
