@@ -50,8 +50,3 @@ This is 100% free and open source. We encourage and support an active, healthy c
 - Add more resources to learn Competitive Programming.
 - Write and improve some documentation. Documentation is very critical to us. We would appreciate help in adding multiple languages to our docs.
 
-## Authors ✒️
-
-* [**Hrithik Singh**](https://github.com/hrithik73)
-## Contributers ✒️
-* [**Hitesh Garg**](https://github.com/hiteshgarg123)
